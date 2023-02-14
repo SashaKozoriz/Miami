@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://SashaKozoriz.github.io/Miami/)
+    - [DEMO LINK](https://SashaKozoriz.github.io/Miami/);
