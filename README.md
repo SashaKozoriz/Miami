@@ -1,2 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
+Miami Real estate landing page
 1. - [DEMO LINK](https://SashaKozoriz.github.io/Miami/)
